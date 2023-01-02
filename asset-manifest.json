@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.5d6909b8.css",
-    "main.js": "/static/js/main.0bf2165a.js",
-    "static/js/787.c10b64da.chunk.js": "/static/js/787.c10b64da.chunk.js",
-    "static/media/user.png": "/static/media/user.a6143582309785dca610.png",
-    "index.html": "/index.html",
-    "main.5d6909b8.css.map": "/static/css/main.5d6909b8.css.map",
-    "main.0bf2165a.js.map": "/static/js/main.0bf2165a.js.map",
-    "787.c10b64da.chunk.js.map": "/static/js/787.c10b64da.chunk.js.map"
+    "main.css": "/ejercicio123/static/css/main.5d6909b8.css",
+    "main.js": "/ejercicio123/static/js/main.132059b7.js",
+    "static/js/787.c10b64da.chunk.js": "/ejercicio123/static/js/787.c10b64da.chunk.js",
+    "static/media/user.png": "/ejercicio123/static/media/user.a6143582309785dca610.png",
+    "index.html": "/ejercicio123/index.html",
+    "main.5d6909b8.css.map": "/ejercicio123/static/css/main.5d6909b8.css.map",
+    "main.132059b7.js.map": "/ejercicio123/static/js/main.132059b7.js.map",
+    "787.c10b64da.chunk.js.map": "/ejercicio123/static/js/787.c10b64da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d6909b8.css",
-    "static/js/main.0bf2165a.js"
+    "static/js/main.132059b7.js"
   ]
 }
