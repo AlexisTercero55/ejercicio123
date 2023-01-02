@@ -2,6 +2,7 @@
   "name": "ejercicio123",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://alexistercero55.github.io/ejercicio123/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.1",
     "@fortawesome/free-brands-svg-icons": "^6.2.1",

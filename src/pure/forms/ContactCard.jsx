@@ -10,7 +10,7 @@ import { faArrowLeft,
        } from "@fortawesome/free-solid-svg-icons";
 
 import './card.css';
-// import userImg from './user.png'
+import userImg from './user.png'
 
 /**
  * Component B
@@ -26,7 +26,7 @@ const ContactCard = ({contact}) =>
     contact.isConected = status;
   }
 
-  const userImg = require('./user.png');
+  // const userImg = require('./user.png').default;
   
   return(
     <div className="card">
