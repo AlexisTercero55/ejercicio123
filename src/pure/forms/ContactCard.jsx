@@ -10,7 +10,6 @@ import { faArrowLeft,
        } from "@fortawesome/free-solid-svg-icons";
 
 import './card.css';
-import userImg from './user.png'
 
 /**
  * Component B
@@ -37,7 +36,7 @@ const ContactCard = ({contact}) =>
         <li><FontAwesomeIcon icon={faHeart} className="i-r w"/></li>
       </ul>
 
-      <img className="userphoto" src={userImg} alt=""/>
+      <img className="userphoto" src={`${process.env.PUBLIC_URL}/user.png`} alt=""/>
 
       {/* <h2>Contact</h2> */}
       <h1 className='username'>{contact.name +' '+ contact.lastName}</h1>
