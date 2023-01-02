@@ -10,7 +10,7 @@ import { faArrowLeft,
        } from "@fortawesome/free-solid-svg-icons";
 
 import './card.css';
-import userImg from './user.png'
+import userImg from 'user.png'
 
 /**
  * Component B
