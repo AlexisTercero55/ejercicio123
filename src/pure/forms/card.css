@@ -1,0 +1,104 @@
+/* Remove Default Settings */
+.top{
+  margin-top:16px;
+}
+.color-a{
+  background: linear-gradient(to top right, #8162CE, #F54BA5);
+}
+.color-b{
+  background: linear-gradient(to bottom right, #C90A6D, #FF48A0);
+}
+.color-d{
+  background: linear-gradient(to bottom right, #6452E9, #639FF9);
+}
+ul{
+  /* background-color: aliceblue; */
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.card{
+  /* border: 5px solid #3F9EFC ; */
+  position: relative;
+  width: 100%;
+  /* border-radius: 20px; */
+
+  
+  /* https://codepen.io/Wandersonjack/pen/RMRwbP?editors=1100 */
+  background:#31394D;
+  border-radius: 6px;
+  display: inline-block;
+  padding: 0 15px;
+  /* margin: 1rem; */
+  /* bottom: auto; */
+  /* position: relative; */
+  /* width: 375px; */
+  box-shadow: 0 12px 13px rgba(0,0,0,0.16), 0 12px 13px rgba(0,0,0,0.16);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+.i-l{
+  float:left;
+  margin-left:16px;
+  margin-top:16px;
+}
+.i-r{
+  float:right;
+  margin-right:16px;
+  margin-top:16px;
+}
+.w{
+  color:#ffffff;
+}
+.userphoto{
+  border: 2px solid #3F9EFC;
+  border-radius:100%;
+  margin-top:60px;
+  width:132px;
+  /* height:128px; */
+  /* width: 100px; */
+}
+.username{
+  /* border: 2px solid #000000; */
+  color:#ffffff;
+  font-family: roboto;
+  weight: 300;
+}
+.mail{
+  /* border: 2px solid #000000; */
+  color:#7C8097;
+  font-size:20px;
+  weight:100;
+  font-family:roboto;
+}
+.state{
+  font-size:12px;
+  margin-left: 65px;
+  margin-right: 65px;
+  color:#B7B8C0;
+  text-align:center;
+}
+.B1{
+  margin: 14px;
+  border:none;
+  height:40px;
+  color:#ffffff;
+  width:35%;
+  font-size:16px;
+  border-radius:30px;
+  box-shadow: 0 13px 26px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.16);
+}
+.color-c{
+  background: linear-gradient(to bottom right, #5E5AEC, #3F9EFC);
+}
+.B1:hover{
+  border:solid 1px #5E5AEC;
+  height:40px;
+  font-family: Roboto;
+  color: #ffffff;
+  background:linear-gradient(to top right, #3F9EFC, #5E5AEC);;
+  width:35%;
+  /* border-color: linear-gradient(to top right, #8162CE, #F54BA5); */
+  border-radius:80px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.16);
+}
+
