@@ -36,7 +36,7 @@ const ContactCard = ({contact}) =>
         <li><FontAwesomeIcon icon={faHeart} className="i-r w"/></li>
       </ul>
 
-      <img className="userphoto" src={`${process.env.PUBLIC_URL}/user.png`} alt=""/>
+      <img className="userphoto" src={`${process.env.PUBLIC_URL}/assets/img/user.png`} alt=""/>
 
       {/* <h2>Contact</h2> */}
       <h1 className='username'>{contact.name +' '+ contact.lastName}</h1>
